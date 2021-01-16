@@ -13,7 +13,7 @@ layouts, although I don't have any other layouts to test them on.
 
 #### Christmas Songs
 
-* [Deck the Halls](https://raw.githubusercontent.com/drothu/music/master/christmas/Deck_the_Halls.pdf)
+* [Deck the Halls](https://github.com/Dorthu/music/blob/master/christmas/Deck_The_Halls.pdf)
 
 ## Editing
 
