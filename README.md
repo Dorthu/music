@@ -11,6 +11,10 @@ These pieces were arranged for the Elise Hayden Duet Concertina, from
 Concertina Connection.  These pieces will likely play fine on other key
 layouts, although I don't have any other layouts to test them on.
 
+#### Video Game Music
+
+* [Song of Storms (The Legend of Zelda: Ocarina of Time)](https://github.com/Dorthu/music/blob/master/games/Song_of_storms.pdf)
+
 #### Christmas Songs
 
 * [Deck the Halls](https://github.com/Dorthu/music/blob/master/christmas/Deck_The_Halls.pdf)
