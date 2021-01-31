@@ -13,7 +13,7 @@ layouts, although I don't have any other layouts to test them on.
 
 #### Video Game Music
 
-* [Song of Storms (The Legend of Zelda: Ocarina of Time)](https://github.com/Dorthu/music/blob/master/games/Song_of_storms.pdf)
+* [Song of Storms (The Legend of Zelda: Ocarina of Time)](https://github.com/Dorthu/music/blob/master/games/Song_of_Storms.pdf)
 
 #### Christmas Songs
 
