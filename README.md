@@ -19,6 +19,7 @@ layouts, although I don't have any other layouts to test them on.
 #### Christmas Songs
 
 * [Deck the Halls](https://github.com/Dorthu/music/blob/master/christmas/Deck_The_Halls.pdf)
+* [O come, O come, Emmanuel](https://github.com/Dorthu/music/blob/master/christmas/O_come_O_come_Emmanuel_Cello.pdf) (for Cello)
 
 ## Editing
 
