@@ -14,12 +14,24 @@ layouts, although I don't have any other layouts to test them on.
 #### Video Game Music
 
 * [Song of Storms (The Legend of Zelda: Ocarina of Time)](https://github.com/Dorthu/music/blob/master/games/Song_of_Storms.pdf)
-  * [Cello Arrangement for my son](https://github.com/Dorthu/music/blob/master/games/Song_of_Storms_Cello.pdf)
 
 #### Christmas Songs
 
 * [Deck the Halls](https://github.com/Dorthu/music/blob/master/christmas/Deck_The_Halls.pdf)
-* [O come, O come, Emmanuel](https://github.com/Dorthu/music/blob/master/christmas/O_come_O_come_Emmanuel_Cello.pdf) (for Cello)
+* [Let it Snow](https://github.com/Dorthu/music/blob/master/christmas/Let_It_Snow.pdf)
+
+### Cello
+
+My son picked up the Cello for school, so I've included some arrangements here
+that I made for him.
+
+#### Video Game Music
+
+* [Song of Storms](https://github.com/Dorthu/music/blob/master/games/Song_of_Storms_Cello.pdf)
+
+#### Christmas Songs
+
+* [O come, O come, Emmanuel](https://github.com/Dorthu/music/blob/master/christmas/O_come_O_come_Emmanuel_Cello.pdf)
 
 ## Editing
 
