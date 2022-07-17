@@ -27,11 +27,11 @@ Lachenal, cira the mid 1890.  These may well play fine on other instrumnets,
 but I make no gaurentee.  Versions of the Hayden Duet songs rearranged here are
 often in a different key to account for the different range of the instrument,
 and I've modified the clefs to match [Maccann's book on the
-subject](https://imslp.org/wiki/Method_for_the_Chromatic_Duet_English_Concertina_(Maccann%2C_John_Hill).
+subject](https://imslp.org/wiki/Method_for_the_Chromatic_Duet_English_Concertina_%28Maccann%2C_John_Hill%29).
 
 #### General Music
 
- * [Somewhere In Between (Interlude) by Streetlight Manifest](https://github.com/Dorthu/music/blob/master/wip/Somewher_In_Between+(Interlude).pdf).
+ * [Somewhere In Between (Interlude) by Streetlight Manifest](https://github.com/Dorthu/music/blob/master/wip/Somewher_In_Between+%28Interlude%29.pdf).
 
 #### Chirstmas Songs
 
