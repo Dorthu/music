@@ -31,7 +31,7 @@ subject](https://imslp.org/wiki/Method_for_the_Chromatic_Duet_English_Concertina
 
 #### General Music
 
- * [Somewhere In Between (Interlude) by Streetlight Manifest](https://github.com/Dorthu/music/blob/master/wip/Somewher_In_Between+%28Interlude%29.pdf).
+ * [Somewhere In Between (Interlude) by Streetlight Manifest](https://github.com/Dorthu/music/blob/master/wip/Somewher_In_Between%20%28Interlude%29.pdf).
 
 #### Chirstmas Songs
 
