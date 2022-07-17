@@ -20,6 +20,23 @@ layouts, although I don't have any other layouts to test them on.
 * [Deck the Halls](https://github.com/Dorthu/music/blob/master/christmas/Deck_The_Halls.pdf)
 * [Let it Snow](https://github.com/Dorthu/music/blob/master/christmas/Let_It_Snow.pdf)
 
+### Maccann Duet Concertina
+
+These pieces were arranged for an antique 47-key Maccann Duet Concertina from
+Lachenal, cira the mid 1890.  These may well play fine on other instrumnets,
+but I make no gaurentee.  Versions of the Hayden Duet songs rearranged here are
+often in a different key to account for the different range of the instrument,
+and I've modified the clefs to match [Maccann's book on the
+subject](https://imslp.org/wiki/Method_for_the_Chromatic_Duet_English_Concertina_(Maccann%2C_John_Hill).
+
+#### General Music
+
+ * [Somewhere In Between (Interlude) by Streetlight Manifest](https://github.com/Dorthu/music/blob/master/wip/Somewher_In_Between+(Interlude).pdf).
+
+#### Chirstmas Songs
+
+ * [Let it Snow (key of C)](https://github.com/Dorthu/music/blob/master/christmas/Let_It_Snow_C.pdf).
+
 ### Cello
 
 My son picked up the Cello for school, so I've included some arrangements here
